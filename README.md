@@ -1,2 +1,2 @@
-# UdemyReactCourseTodoJS
+# UdemyJSIntro
 Created with CodeSandbox
